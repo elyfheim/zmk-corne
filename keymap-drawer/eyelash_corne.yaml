@@ -45,7 +45,7 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:keyboard-tab$$', h: SYM}
-  - {t: '$$mdi:backspace$$', h: '$$mdi:apple-keyboard-command$$'}
+  - {t: '$$mdi:backspace$$', h: 'Ctl+$$mdi:apple-keyboard-command$$'}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', h: EXTRA}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -143,44 +143,44 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '0', s: )}
-  - {t: 'Alt+$$mdi:backspace$$', type: backspace}
+  - {t: 'Ctl+$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: EXTRA, type: held}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   WM:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: Alt+7, s: Alt+&}
-  - {t: Alt+8, s: Alt+*}
-  - {t: Alt+9, s: Alt+(}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
-  - Alt+Q
-  - Alt+W
-  - Alt+E
-  - Alt+R
+  - Gui+Y
+  - Gui+U
+  - Gui+I
+  - Gui+O
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - Alt+4
-  - {t: Alt+5, s: Alt+%}
-  - Alt+6
+  - Gui+4
+  - {t: Gui+5, s: Gui+%}
+  - Gui+6
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - Alt+H
-  - Alt+J
-  - Alt+K
-  - Alt+L
+  - Gui+H
+  - Gui+J
+  - Gui+K
+  - Gui+L
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: held}
-  - Alt+1
-  - Alt+2
-  - Alt+3
+  - Gui+1
+  - Gui+2
+  - Gui+3
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
